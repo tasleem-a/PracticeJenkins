@@ -2,7 +2,7 @@ package Nisha;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -12,8 +12,8 @@ public class MyCuteBaby {
 	public void test()
 	{
 		///for friend purpose
-		WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
+		WebDriverManager.firefoxdriver();
+		WebDriver driver = new FirefoxDriver();
 		String Name="TasleemNisha";
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		driver.get("https://www.google.com/");
