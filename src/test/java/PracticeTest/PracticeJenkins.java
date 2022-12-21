@@ -1,3 +1,4 @@
+package PracticeTest;
 import org.testng.annotations.Test;
 
 public class PracticeJenkins {
@@ -5,6 +6,7 @@ public class PracticeJenkins {
 	public void test()
 	{
 		System.out.println("------TASLEEM---------");
+		System.out.println("------Execute---------");
 	}
 
 }
