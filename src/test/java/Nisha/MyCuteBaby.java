@@ -11,6 +11,7 @@ public class MyCuteBaby {
 	@Test
 	public void test()
 	{
+		///for friend purpose
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		String Name="TasleemNisha";
