@@ -14,10 +14,10 @@ public class MyCuteBaby {
 		///for friend purpose
 		WebDriverManager.firefoxdriver();
 		WebDriver driver = new FirefoxDriver();
-		String Name="TasleemNisha";
+		String Name="TasleemNisha123";
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
-		driver.get("https://www.google.com/");
-		//driver.get("https://mycutebaby.in/contest/participant/639023b83ece9?utm_source=wsapp_share&utm_campaign=December_2022&utm_medium=shared&utm_term=wsapp_shared_639023b83ece9&utm_content=participant");
+		//driver.get("https://www.google.com/");
+		driver.get("https://mycutebaby.in/contest/participant/639023b83ece9?utm_source=wsapp_share&utm_campaign=December_2022&utm_medium=shared&utm_term=wsapp_shared_639023b83ece9&utm_content=participant");
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		driver.findElement(By.xpath("//input[@id='v']")).sendKeys(Name);
 		driver.findElement(By.xpath("//a[@id='vote_btn']")).click();
