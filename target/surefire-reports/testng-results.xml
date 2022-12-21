@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="PracticeTest.Practice2" duration-ms="31" started-at="2022-12-21T07:03:37Z" finished-at="2022-12-21T07:03:37Z">
+  <suite name="Staging.Sanity" duration-ms="29" started-at="2022-12-21T07:41:50Z" finished-at="2022-12-21T07:41:50Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="31" started-at="2022-12-21T07:03:37Z" finished-at="2022-12-21T07:03:37Z">
-      <class name="PracticeTest.Practice2">
-        <test-method status="PASS" signature="test()[pri:0, instance:PracticeTest.Practice2@32d992b2]" name="test" duration-ms="12" started-at="2022-12-21T12:33:37Z" finished-at="2022-12-21T12:33:37Z">
+    <test name="Command line test" duration-ms="29" started-at="2022-12-21T07:41:50Z" finished-at="2022-12-21T07:41:50Z">
+      <class name="Staging.Sanity">
+        <test-method status="PASS" signature="test()[pri:0, instance:Staging.Sanity@32d992b2]" name="test" duration-ms="9" started-at="2022-12-21T13:11:50Z" finished-at="2022-12-21T13:11:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- PracticeTest.Practice2 -->
+      </class> <!-- Staging.Sanity -->
     </test> <!-- Command line test -->
-  </suite> <!-- PracticeTest.Practice2 -->
+  </suite> <!-- Staging.Sanity -->
 </testng-results>
