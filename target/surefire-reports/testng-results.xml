@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Staging.Sanity" duration-ms="29" started-at="2022-12-21T07:41:50Z" finished-at="2022-12-21T07:41:50Z">
+  <suite name="Nisha.MyCuteBaby" duration-ms="51244" started-at="2022-12-21T16:32:17Z" finished-at="2022-12-21T16:33:08Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="29" started-at="2022-12-21T07:41:50Z" finished-at="2022-12-21T07:41:50Z">
-      <class name="Staging.Sanity">
-        <test-method status="PASS" signature="test()[pri:0, instance:Staging.Sanity@32d992b2]" name="test" duration-ms="9" started-at="2022-12-21T13:11:50Z" finished-at="2022-12-21T13:11:50Z">
+    <test name="Command line test" duration-ms="51244" started-at="2022-12-21T16:32:17Z" finished-at="2022-12-21T16:33:08Z">
+      <class name="Nisha.MyCuteBaby">
+        <test-method status="PASS" signature="test()[pri:0, instance:Nisha.MyCuteBaby@6cc4c815]" name="test" duration-ms="51223" started-at="2022-12-21T22:02:17Z" finished-at="2022-12-21T22:03:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- Staging.Sanity -->
+      </class> <!-- Nisha.MyCuteBaby -->
     </test> <!-- Command line test -->
-  </suite> <!-- Staging.Sanity -->
+  </suite> <!-- Nisha.MyCuteBaby -->
 </testng-results>
