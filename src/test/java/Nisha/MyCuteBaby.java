@@ -12,7 +12,7 @@ public class MyCuteBaby {
 	public void test()
 	{
 		///for friend purpose
-		WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		String Name="TasleemNisha";
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
