@@ -7,5 +7,6 @@ public class PracticeMavenTest {
 public void test()
 {
 	System.out.println("-----Practicing Maven------");
+	System.out.println("-----sanity------");
 }
 }
