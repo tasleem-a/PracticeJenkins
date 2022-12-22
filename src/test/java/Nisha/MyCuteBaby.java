@@ -14,7 +14,7 @@ public class MyCuteBaby {
 		///for friend purpose
 		WebDriverManager.firefoxdriver();
 		WebDriver driver = new FirefoxDriver();
-		String Name="TasleemNisha123";
+		String Name="TasleemNisha1234";
 		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@");
 		//driver.get("https://www.google.com/");
 		driver.get("https://mycutebaby.in/contest/participant/639023b83ece9?utm_source=wsapp_share&utm_campaign=December_2022&utm_medium=shared&utm_term=wsapp_shared_639023b83ece9&utm_content=participant");
