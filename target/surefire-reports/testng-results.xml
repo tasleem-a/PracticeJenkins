@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Nisha.MyCuteBaby" duration-ms="31459" started-at="2022-12-21T16:53:29Z" finished-at="2022-12-21T16:54:00Z">
+  <suite name="PracticeTest.Practice2" duration-ms="27" started-at="2022-12-22T11:20:54Z" finished-at="2022-12-22T11:20:54Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="31459" started-at="2022-12-21T16:53:29Z" finished-at="2022-12-21T16:54:00Z">
-      <class name="Nisha.MyCuteBaby">
-        <test-method status="PASS" signature="test()[pri:0, instance:Nisha.MyCuteBaby@6cc4c815]" name="test" duration-ms="31439" started-at="2022-12-21T22:23:29Z" finished-at="2022-12-21T22:24:00Z">
+    <test name="Command line test" duration-ms="27" started-at="2022-12-22T11:20:54Z" finished-at="2022-12-22T11:20:54Z">
+      <class name="PracticeTest.Practice2">
+        <test-method status="PASS" signature="test()[pri:0, instance:PracticeTest.Practice2@32d992b2]" name="test" duration-ms="10" started-at="2022-12-22T16:50:54Z" finished-at="2022-12-22T16:50:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- Nisha.MyCuteBaby -->
+      </class> <!-- PracticeTest.Practice2 -->
     </test> <!-- Command line test -->
-  </suite> <!-- Nisha.MyCuteBaby -->
+  </suite> <!-- PracticeTest.Practice2 -->
 </testng-results>
